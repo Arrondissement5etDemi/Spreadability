@@ -20,3 +20,9 @@ Please cite us as:
   doi = {10.1103/PhysRevApplied.17.034022},
   url = {https://link.aps.org/doi/10.1103/PhysRevApplied.17.034022}
 }
+
+## How it works
+to compile: `javac SpreadabilityClient.java`
+to run: `java -cp . SpreadabilityClient [file_name] [\epsilon value]`
+For example:
+`java -cp . SpreadabilityClient BCCPhi0x20.spr 1e-6`
