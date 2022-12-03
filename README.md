@@ -11,7 +11,9 @@ For example:
 `java -cp . SpreadabilityClient BCCPhi0x20.spr 1e-6`  
 
 ## How to cite
-Please cite us with the following bibtex entry  
+H. Wang, and S. Torquato, Dynamic Measure of Hyperuniformity and Nonhyperuniformity in Heterogeneous Media via the Diffusion Spreadability, Physical Review Applied, 17 034022 (2022).  
+
+Or cite us with the following bibtex entry  
 @article{PhysRevApplied.17.034022,  
   title = {Dynamic Measure of Hyperuniformity and Nonhyperuniformity in Heterogeneous Media via the Diffusion Spreadability},  
   author = {Wang, Haina and Torquato, Salvatore},  
