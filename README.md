@@ -1,7 +1,7 @@
 # Spreadability
-Robust algorithm to extract small-wavevector (long-wavelength) behavior of the spectral density of two-phase media via the diffusion spreadability. It works faster and cleaner than a direct fit of small wavewectors.
+This is an algorithm to extract small-wavevector (long-wavelength) behavior of two-point correlations of two-phase media via the [diffusion spreadability](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.054102). It works faster, cleaner and more robust than a direct fit of small wavewectors.
 
-Please see the description of the algorithm in our paper in PRApplied:
+Please see the description of the algorithm in our PRApplied paper, Sec. V:
 [Dynamic Measure of Hyperuniformity and Nonhyperuniformity in Heterogeneous Media via the Diffusion Spreadability](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.17.034022)
 
 Please cite us as:
