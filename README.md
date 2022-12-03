@@ -1,2 +1,22 @@
 # Spreadability
-Robust algorithm to extract small-wavevector behaviors of two-phase media via the diffusion spreadability.
+Robust algorithm to extract small-wavevector (long-wavelength) behavior of the spectral density of two-phase media via the diffusion spreadability. It works faster and cleaner than a direct fit of small wavewectors.
+
+Please see the description of the algorithm in our paper in PRApplied:
+[Dynamic Measure of Hyperuniformity and Nonhyperuniformity in Heterogeneous Media via the Diffusion Spreadability](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.17.034022)
+
+Please cite us as:
+
+@article{PhysRevApplied.17.034022,
+  title = {Dynamic Measure of Hyperuniformity and Nonhyperuniformity in Heterogeneous Media via the Diffusion Spreadability},
+  author = {Wang, Haina and Torquato, Salvatore},
+  journal = {Phys. Rev. Applied},
+  volume = {17},
+  issue = {3},
+  pages = {034022},
+  numpages = {21},
+  year = {2022},
+  month = {Mar},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevApplied.17.034022},
+  url = {https://link.aps.org/doi/10.1103/PhysRevApplied.17.034022}
+}
