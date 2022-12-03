@@ -6,7 +6,7 @@ Please see the description of the algorithm in our PRApplied paper, Sec. V:
 
 ## How it works
 to compile: `javac SpreadabilityClient.java`  
-to run: `java -cp . SpreadabilityClient [file_name] [$$\epsilon$$ value]`  
+to run: `java -cp . SpreadabilityClient <spreadability_file_name> <$\epsilon$ value>`  
 For example:  
 `java -cp . SpreadabilityClient BCCPhi0x20.spr 1e-6`  
 
