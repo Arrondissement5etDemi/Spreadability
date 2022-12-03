@@ -6,7 +6,7 @@ Please see the description of the algorithm in our PRApplied paper, Sec. V:
 
 ## How it works
 to compile: `javac SpreadabilityClient.java`  
-to run: `java -cp . SpreadabilityClient [file_name] [\epsilon value]`  
+to run: `java -cp . SpreadabilityClient [file_name] [$$\epsilon$$ value]`  
 For example:  
 `java -cp . SpreadabilityClient BCCPhi0x20.spr 1e-6`  
 
@@ -27,4 +27,3 @@ Please cite us as
   url = {https://link.aps.org/doi/10.1103/PhysRevApplied.17.034022}  
 }  
 
-This is an inline equation: $$V_{sphere} = \frac{4}{3}\pi r^3$$,<br>
